@@ -1,4 +1,4 @@
-# STOCK PRICE PREDICTION\
+# STOCK PRICE PREDICTION
 
 **Problem Statement** Forecasting stock market prices have always been a challenging task for many business analyst and researchers. Your friend, who is interested in investing in the stock market shares of the well-known company IBM is unable to predict the company's stock market. The rate of his investment and his business opportunities in IBM's Stockmarket can increase if an efficient algorithm could be devised to predict the short term price of an individual stock.
 
